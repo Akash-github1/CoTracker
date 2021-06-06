@@ -34,8 +34,12 @@ try:
 except ImportError:
     print(red+'\n['+white+'!'+red+'] '+green+'module '+white+'re or bs4'+green+'not installed'+white+'\n')
     sys.exit()
-os.system('cls')
-
+    
+if sys.platform='win32:
+    os.system('cls')
+else:
+    os.system('clear')
+    
 print (red+"\n<------------------------------------------------------------------->")
 print (red+"\n<------------------------------------------------------------------->")
 fig = pyfiglet.figlet_format('         Co-Tracker',font='standard')
