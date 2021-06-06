@@ -12,6 +12,6 @@ $ python Cotracker.py
 ```
 
 # Screenshot
-<img src="CoTracker/Screenshot.png" />
+<img src="Screenshot.png" />
 
 
