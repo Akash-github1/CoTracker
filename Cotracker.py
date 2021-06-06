@@ -92,4 +92,4 @@ for _ in range(0,50):
                     print()
                 break
 
-    print('<-------------------------'+green+"Fetching Completed "+green+'-------------------------->')
+    print('<-------------------------'+green+"Fetching Completed "+green+'----------------------->')
