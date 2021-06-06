@@ -35,7 +35,7 @@ except ImportError:
     print(red+'\n['+white+'!'+red+'] '+green+'module '+white+'re or bs4'+green+'not installed'+white+'\n')
     sys.exit()
     
-if sys.platform='win32:
+if sys.platform =='win32':
     os.system('cls')
 else:
     os.system('clear')
