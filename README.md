@@ -12,6 +12,6 @@ $ python Cotracker.py
 ```
 
 # Screenshot
-<img src="Hash-Generator/Screenshot.png" />
+<img src="CoTracker/Screenshot.png" />
 
 
